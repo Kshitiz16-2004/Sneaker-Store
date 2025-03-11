@@ -112,3 +112,12 @@ section .main .main_content .main_text h1 span{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+section .main .main_content .main_text p{
+    width: 600px;
+    text-align: justify;
+    line-height: 21px;
+    position: relative;
+    top: 85px;
+    left: 5%;
+}
